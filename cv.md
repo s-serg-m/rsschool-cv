@@ -13,3 +13,15 @@ I am studying frontend development with RS-School.
 - CSS
 - JavaScript
 - Git
+
+### Code example
+**Function for calculate sum two numbers:**
+```
+function sum(a, b) {
+  return a + b;
+}
+const a = 2;
+const b = 3;
+const c = sum(a, b);
+console.log(c);
+```
