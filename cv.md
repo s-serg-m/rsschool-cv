@@ -25,3 +25,6 @@ const b = 3;
 const c = sum(a, b);
 console.log(c);
 ```
+
+### Experience
+[My first project](https://s-serg-m.github.io/rsschool-cv/cv)
