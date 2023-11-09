@@ -28,3 +28,6 @@ console.log(c);
 
 ### Experience
 [My first project](https://s-serg-m.github.io/rsschool-cv/cv)
+
+### Education
+Studied in the past the basic syntax of other programming languages.
