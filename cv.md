@@ -31,3 +31,7 @@ console.log(c);
 
 ### Education
 Studied in the past the basic syntax of other programming languages.
+
+### Languages
+- Russian - Native
+- English - In progress
