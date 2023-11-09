@@ -7,3 +7,9 @@
 
 ### About me
 I am studying frontend development with RS-School.
+
+### Skills
+- HTML
+- CSS
+- JavaScript
+- Git
